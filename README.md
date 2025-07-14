@@ -1,7 +1,7 @@
 👋 Hi, I’m @Xostan!
 - 👀 I’m interested in creating apps that help people to realize their true potential ✨.
 - 🌱 I’m currently learning web, app & script development with Next.js (TypeScript, React, TailwindCSS), Flutter & Python.
-- 💞️ I’m looking to collaborate on legal matters, UI design, marketing & website development.
+- 💞️ I’m looking to collaborate on legal matters, UI/UX design, marketing & website development.
 - 📫 You can contact me via xostanworld@gmail.com.
 
 <!---
