@@ -7,12 +7,12 @@
 # 🛠️ Tech stack
 
 My tech stack focuses on..
-- [mobile apps](https://flutter.dev/development/mobile)
-- [progressive web apps (PWAs)](https://en.wikipedia.org/wiki/Progressive_web_app)
-- [workflow automation](https://en.wikipedia.org/wiki/Business_process_automation)
+- [Mobile Apps](https://flutter.dev/development/mobile)
+- [Progressive Web Apps (PWAs)](https://en.wikipedia.org/wiki/Progressive_web_app)
+- [Workflow Automation](https://en.wikipedia.org/wiki/Business_process_automation)
 - [Command-line Interfaces (CLIs)](https://go.dev/solutions/clis)
 - [CRO](https://en.wikipedia.org/wiki/Conversion_rate_optimization) [landing pages](https://nextjstemplates.com/landing-page) and
-- [websites](https://wordpress.org/)
+- [Websites](https://wordpress.org/)
 
 built with..
   - [Flutter](https://flutter.dev/) ([Dart](https://dart.dev/))
