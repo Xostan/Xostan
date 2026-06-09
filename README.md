@@ -8,7 +8,7 @@
   - Go
   - and more.
 - 👀 I’m open to work especially as freelancer or in part time jobs.
-- 📥 You can contact me at hendrikstaack97@gmail.com.
+- 📥 You can contact me via [LinkedIn](https://www.linkedin.com/in/hendrik-staack/).
 
 <!---
 Xostan/Xostan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
