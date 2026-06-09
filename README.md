@@ -1,8 +1,14 @@
-👋 Hi, I’m Hendrik (@Xostan)!
-- 👀 I’m interested in creating apps that connect people and help people to realize their true potential ✨.
-- 🌱 I’m currently learning web, app & script development with Next.js (TypeScript, React, TailwindCSS), Flutter & Python.
-- 💞️ I’m looking to collaborate on legal matters, UI/UX design, marketing, social media & website development.
-- 📫 You can contact me via xostanworld@gmail.com.
+👋 Hi, I’m Hendrik Staack! 🇩🇪🇺🇸🇫🇷
+
+- ✨ I’m interested in creating software that help people to realize their true potential 🚀 and create meaningful connections 👥.
+- 🛠️ My tech stack focuses on mobile apps, progressive web apps, landing pages and workflow automation built with..
+  - Flutter (Dart)
+  - Next.js (TypeScript, React, TailwindCSS, shadcn/ui)
+  - Python
+  - Go
+  - and more.
+- 👀 I’m open to work especially as freelancer or in part time jobs.
+- 📥 You can contact me at hendrikstaack97@gmail.com.
 
 <!---
 Xostan/Xostan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
