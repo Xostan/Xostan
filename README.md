@@ -24,7 +24,8 @@ built with..
 
 # 👀 Open to work
 
-I’m open to work especially in freelancing projects and part time jobs.
+I’m open to freelance and part-time work.
+Not available for full-time jobs.
 
 # Contact
 
