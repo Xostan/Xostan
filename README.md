@@ -33,6 +33,5 @@ Not available for full-time jobs.
 📥 You can contact me at [LinkedIn](https://www.linkedin.com/in/hendrik-staack/).
 
 <!---
-Xostan/Xostan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+special repository because its `README.md` (this file) appears on the GitHub profile.
 --->
