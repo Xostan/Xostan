@@ -28,9 +28,9 @@ built with..
 I’m open to freelance and part-time work.
 Not available for full-time jobs.
 
-# Contact
+# 📥 Contact
 
-📥 You can contact me at [LinkedIn](https://www.linkedin.com/in/hendrik-staack/).
+You can contact me at [LinkedIn](https://www.linkedin.com/in/hendrik-staack/).
 
 <!---
 special repository because its `README.md` (this file) appears on the GitHub profile.
