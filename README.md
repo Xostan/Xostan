@@ -7,9 +7,10 @@
 # 🛠️ Tech stack
 
 My tech stack focuses on..
-- [Mobile Apps](https://flutter.dev/development/mobile)
+- [Cross-platform Apps (mobile, web, desktop)](https://flutter.dev/development/mobile)
 - [Progressive Web Apps (PWAs)](https://en.wikipedia.org/wiki/Progressive_web_app)
 - [Workflow Automation](https://en.wikipedia.org/wiki/Business_process_automation)
+- Backend (APIs)
 - [Command-line Interfaces (CLIs)](https://go.dev/solutions/clis)
 - [CRO](https://en.wikipedia.org/wiki/Conversion_rate_optimization) [landing pages](https://nextjstemplates.com/landing-page) and
 - [Websites](https://wordpress.org/)
@@ -17,10 +18,13 @@ My tech stack focuses on..
 built with..
   - [Flutter](https://flutter.dev/) ([Dart](https://dart.dev/))
   - [Next.js](https://nextjs.org/) ([TypeScript](https://www.typescriptlang.org/) -> [React](https://react.dev/), [TailwindCSS](https://tailwindcss.com/), [shadcn/ui](https://ui.shadcn.com/), ...)
-  - [Python](https://www.python.org/)
   - [Go](https://go.dev/)
+  - [Python](https://www.python.org/)
   - [n8n](https://n8n.io/)
+  - [Node.js](https://nodejs.org/)
   - [Wordpress](https://wordpress.org/)
+  - [Supabase](http://supabase.com/)
+  - [Firebase](https://firebase.google.com/)
   - and more.
 
 # 👀 Open to work
