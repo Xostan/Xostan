@@ -8,7 +8,7 @@
 
 My tech stack focuses on..
 - [Cross-platform Apps (mobile, web, desktop)](https://flutter.dev/development/mobile)
-- [Progressive Web Apps (PWAs)](https://en.wikipedia.org/wiki/Progressive_web_app)
+- [Progressive Web Apps (PWAs)](https://nextjs.org/docs/app/guides/progressive-web-apps)
 - [Workflow Automation](https://en.wikipedia.org/wiki/Business_process_automation)
 - Backend (APIs)
 - [Command-line Interfaces (CLIs)](https://go.dev/solutions/clis)
